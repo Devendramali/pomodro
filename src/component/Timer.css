@@ -1,0 +1,43 @@
+.main1{
+    height:auto;
+    width: 100%;
+    /* background: rgb(210, 48, 48); */
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    padding: 30%;
+    top: 30%;
+   
+}
+.main2{
+  top: 3%;
+  position: absolute;
+  border: 1px solid rgb(196, 91, 56);
+  padding: 5%;
+  background: rgb(243, 96, 96);
+}
+.p{
+    font-size: 100px;
+}
+.button{
+    left: 28%;
+    position: absolute;
+   
+}
+.start{
+    font-size: 20px;
+    /* padding-left: 10%;
+    padding-right: 10%; */
+    
+}
+/* .btn2{
+    top: -15%;
+    
+} */
+.h1{
+    top: 20%;
+    left: 35%;
+    position: absolute;
+}
